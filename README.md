@@ -6,4 +6,5 @@
 
 ### spring
 - [Spring alias标签学习](https://github.com/P-ppc/blog/issues/4)
+- [Spring import标签学习](https://github.com/P-ppc/blog/issues/5)
 - [Spring bean配置属性学习](https://github.com/P-ppc/blog/issues/3)
