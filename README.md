@@ -9,3 +9,4 @@
 - [Spring alias标签学习](https://github.com/P-ppc/blog/issues/4)
 - [Spring import标签学习](https://github.com/P-ppc/blog/issues/5)
 - [Spring bean标签学习一](https://github.com/P-ppc/blog/issues/3)
+- [Spring bean标签学习二](https://github.com/P-ppc/blog/issues/7)
