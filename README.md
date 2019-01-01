@@ -10,3 +10,4 @@
 - [Spring import标签学习](https://github.com/P-ppc/blog/issues/5)
 - [Spring bean标签学习一](https://github.com/P-ppc/blog/issues/3)
 - [Spring bean标签学习二](https://github.com/P-ppc/blog/issues/7)
+- [Spring 其他标签学习](https://github.com/P-ppc/blog/issues/8)
