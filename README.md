@@ -12,3 +12,4 @@
 - [Spring bean标签学习二](https://github.com/P-ppc/blog/issues/7)
 - [Spring 其他标签学习](https://github.com/P-ppc/blog/issues/8)
 - [Spring context命名空间学习](https://github.com/P-ppc/blog/issues/9)
+- [Spring context:component-scan标签学习](https://github.com/P-ppc/blog/issues/10)
