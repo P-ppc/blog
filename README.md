@@ -14,3 +14,4 @@
 - [Spring context命名空间学习](https://github.com/P-ppc/blog/issues/9)
 - [Spring context:component-scan标签学习](https://github.com/P-ppc/blog/issues/10)
 - [Spring context:property-placeholder标签学习](https://github.com/P-ppc/blog/issues/11)
+- [Spring常用注解学习](https://github.com/P-ppc/blog/issues/12)
